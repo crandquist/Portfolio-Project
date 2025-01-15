@@ -6,4 +6,4 @@ services:
     volumes:
       - .:/app
     environment:
-      - FLASK_ENV=development
+      - .env
