@@ -12,3 +12,13 @@ This is my personal portfolio project, built with Flask and Docker.
    ```bash
    docker-compose up --build
    ```
+
+## Running the App with Docker
+
+1. Build and start the container:
+
+   ```bash
+   docker-compose up --build
+   ```
+
+2. Access the app at <http://localhost:8000>
